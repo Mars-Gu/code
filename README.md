@@ -1,11 +1,1 @@
-{  
-"code":"200",
-"data":[
-         {
-           "name":"小趣",
-           "code":"1",
-           "BundleID":"com.kz.KZBaseKit",
-           "break":false
-         }
-     ]
- }
+
